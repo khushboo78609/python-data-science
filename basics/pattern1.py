@@ -12,8 +12,7 @@ for i in range(6):
      for i in range(3):
           fd(150)
           lt(360/3)
-        
 
- 
 hideturtle()
 mainloop()
+
