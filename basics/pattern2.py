@@ -2,8 +2,9 @@ from turtle import *
 
 speed('slowest')
 pensize(2)
+colors = ['red',
 
-colors = ['red', 'blue','yellow','green','orange','purple']
+ 'blue','yellow','green','orange','purple']
 
 for i in range(6):
     write(colors[i], font=('Arial',16, 'bold'))
