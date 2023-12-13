@@ -12,7 +12,8 @@ music.play('dreamland')
 p = Actor('ironman', pos=(WIDTH//2, HEIGHT//2))
 
 c = Rect ((100,100),(20,20))
-speed = 14
+speed = 20
+
 
 def move():
     if keyboard.W:
